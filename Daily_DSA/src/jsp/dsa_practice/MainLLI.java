@@ -8,5 +8,4 @@ class MainLLI{
 		l.insert(3);
 		l.insert(45);
 	}
-	
 }
