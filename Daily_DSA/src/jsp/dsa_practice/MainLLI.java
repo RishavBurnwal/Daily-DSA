@@ -7,5 +7,15 @@ class MainLLI{
 		l.insert(20);
 		l.insert(3);
 		l.insert(45);
+		
+		l.insertFront(15);
+		l.display();
+		l.insertFront(62);
+		l.display();
+		
+		l.delete();
+		l.delete();
+		l.display();
+
 	}
 }
